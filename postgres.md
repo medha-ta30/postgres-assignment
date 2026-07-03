@@ -118,3 +118,9 @@ VALUES
 (3,3,2);
 ERROR:  insert or update on table "order_items" violates foreign key constraint "order_items_order_id_fkey"
 DETAIL:  Key (order_id)=(1) is not present in table "orders".
+
+
+
+
+
+rest continued in "contd.md"
